@@ -24,9 +24,9 @@ A developer who is also passionate about design 💖
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 
 <div>
-  <img width="480em" src="https://github-readme-stats.vercel.app/api?username=michelzaum&show_icons=true&theme=github_dark" alt="Michel Oliveira's stats"     />
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=michelzaum&show_icons=true&theme=github_dark" alt="Michel Oliveira's stats"     />
   &nbsp;
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelzaum&theme=github_dark&layout=compact" 
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelzaum&theme=github_dark&layout=compact" 
   />
 </div>
 

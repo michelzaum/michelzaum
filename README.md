@@ -1,7 +1,8 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Michel Oliveira</h1>
+<h1 align="left">Hi! 👋 <br>
+  I'm Michel Oliveira
+</h1>
 
 A developer who is also passionate about design 💖
-
 
 - 🔥&nbsp; I'm currently working at [Questrade Financial Group](https://www.questrade.com/home) as a **Software Engineer**;
 - 🚀&nbsp; Focused on **JavaScript** language, with more knowledge in **React and React Native**;

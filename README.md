@@ -24,13 +24,6 @@ A developer who is also passionate about design 💖
 ![Insomina](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 
-<div>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=michelzaum&show_icons=true&theme=github_dark" alt="Michel Oliveira's stats"     />
-  &nbsp;
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelzaum&theme=github_dark&layout=compact" 
-  />
-</div>
-
 ## 📫 &nbsp;Social links
 <a href="https://www.linkedin.com/in/michel-de-oliveira-nascimento/" alt="linkedin">
   <img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" />

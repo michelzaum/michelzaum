@@ -6,7 +6,7 @@ A developer who is also passionate about design 💖
 
 - 🔥&nbsp; I'm currently working at [Questrade Financial Group](https://www.questrade.com/home) as a **Software Engineer**;
 - 🚀&nbsp; Focused on **JavaScript** language, with more knowledge in **React and React Native**;
-- 🌱&nbsp; Currently learning **Angular, .NET, MongoDB and architecture**;
+- 🌱&nbsp; Currently learning **TypeScript, Tests, SOLID and architecture**;
 - ✨&nbsp; Studying **UI design** using Figma to create prototypes.
 
 ## ⚡ &nbsp;Techs and Tools
@@ -21,7 +21,7 @@ A developer who is also passionate about design 💖
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Insomina](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 
 ## 📫 &nbsp;Social links

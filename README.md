@@ -5,8 +5,8 @@
 A developer who is also passionate about design 💖
 
 - 🔥&nbsp; I'm currently working at [Questrade Financial Group](https://www.questrade.com/home) as a **Software Engineer**;
-- 🚀&nbsp; Focused on **JavaScript** language, with more knowledge in **React and React Native**;
-- 🌱&nbsp; Currently learning **TypeScript, Tests, SOLID and architecture**;
+- 🚀&nbsp; Focused on **JavaScript/TypeScript** language, with more knowledge in **React and React Native**;
+- 🌱&nbsp; Currently learning **NextJS**;
 - ✨&nbsp; Studying **UI design** using Figma to create prototypes.
 
 ## ⚡ &nbsp;Techs and Tools

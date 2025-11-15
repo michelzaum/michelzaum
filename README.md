@@ -1,36 +1,39 @@
-<h1 align="left">Hi! 👋 <br>
-  I'm Michel Oliveira
+<h1 align="center">
+  Hi! 👋 I'm Michel Oliveira
 </h1>
 
-A Software engineer who is also passionate about design 💖
+<div align="left">
+  <h3 align="center">Front-end Engineer</h3>
+  <div align='center' style='display:flex;align-items:center;gap:16px;'>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="32"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="32"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-dark.svg" width="32"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="32"></a>
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelzaum&theme=black-ice&hide_border=true&background=DD272700" />
+</div>
 
 - 🔥&nbsp; I'm currently working at [Questrade Financial Group](https://www.questrade.com/home) as a **Software Engineer**;
-- 🚀&nbsp; Focused on **JavaScript/TypeScript** language, with more knowledge in **React** & **React Native**;
-- 🌱&nbsp; Currently learning **NextJS** & **AWS**.
+- 🚀&nbsp; Focused on **JavaScript/TypeScript** language, with focus on **React** & **React Native** ecosystem;
+- 🌱&nbsp; Currently learning **Back-end development**.
 
-## ⚡ &nbsp;Techs and Tools
+<h3>
+  Projects
+</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![GraphQL](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
+### <a href="https://github.com/michelzaum/buy-buy">Buy-buy</a>
+> Fullstack ecommerce application, built with NextJS, TailwindCSS and Prisma ORM (PostgreSQL);
 
-## 📫 &nbsp;Social links
-<a href="https://www.linkedin.com/in/michel-de-oliveira-nascimento/" alt="linkedin">
-  <img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" />
-</a>
-<a href="https://www.instagram.com/michelzaum/" alt="instagram">
-  <img src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" />
-</a>
-<a href="https://www.facebook.com/michel.deoliveiranascimento" alt="Facebook">
-  <img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" />
-</a>
+##
 
+### <a href="https://github.com/michelzaum/fincheck">Fincheck</a>
+> A finance management system, built with ReactJS, TailWindCSS, NestJS and Prisma ORM (PostgreSQL).
+
+##
+
+<h3 align="left">Get in touch!</h3>
+<a href = "mailto:micheloliveira.dev@gmail.com" align="left"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/michel-de-oliveira-nascimento/" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

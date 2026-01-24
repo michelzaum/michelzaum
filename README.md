@@ -12,10 +12,6 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelzaum&theme=black-ice&hide_border=true&background=DD272700" />
-</div>
-
 - 🔥&nbsp; I'm currently working at [Questrade Financial Group](https://www.questrade.com/home) as a **Software Engineer**;
 - 🚀&nbsp; Focused on **JavaScript/TypeScript** language, with focus on **React** & **React Native** ecosystem;
 - 🌱&nbsp; Currently learning **Back-end development**.
@@ -33,6 +29,14 @@
 > A finance management system, built with ReactJS, TailWindCSS, NestJS and Prisma ORM (PostgreSQL).
 
 ##
+
+<h3>
+  Stats
+</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=michelzaum&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="michelzaum's GitHub Stats" />
+</div>
 
 <h3 align="left">Get in touch!</h3>
 <a href = "mailto:micheloliveira.dev@gmail.com" align="left"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

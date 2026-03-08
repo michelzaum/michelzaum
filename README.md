@@ -35,7 +35,7 @@
 </h3>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=michelzaum&theme=react&hide_border=true" alt="michelzaum's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=michelzaum&theme=react&hide_border=false" alt="michelzaum's GitHub Stats" />
 </div>
 
 <h3 align="left">Get in touch!</h3>
